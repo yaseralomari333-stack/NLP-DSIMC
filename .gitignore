@@ -1,11 +1,17 @@
-data/
-models/
-results/
-*.xlsx
-*.csv
-*.pkl
-*.pt
-*.bin
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*.egg-info/
+.venv/
 .env
+
+# Project artifacts (models, plots, reports)
+artifacts/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
