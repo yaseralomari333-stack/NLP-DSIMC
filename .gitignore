@@ -15,3 +15,5 @@ artifacts/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+reports_and_results.zip
+reports_and_results.zip.part*
